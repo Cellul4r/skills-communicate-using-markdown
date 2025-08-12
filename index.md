@@ -1,0 +1,16 @@
+# Header Text (H1)
+![Nakano Miku](https://camo.githubusercontent.com/bfe023e15e777ba3cedada7901ced2a57a0b48cd605d80b224e6faafb3ea54b3/68747470733a2f2f74656c656772612e70682f66696c652f6263323139383038633664383838666337323236302e6a7067)
+``` c++
+include<bits/stdc++.h>
+using namespace std;
+
+int main() {
+  printf("Hello World");
+  return 0;
+}
+```
+
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
